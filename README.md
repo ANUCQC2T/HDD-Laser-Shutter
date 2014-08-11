@@ -5,10 +5,10 @@ This project is to create a laser shutter made out of a hdd read head. It is bas
 
 Parts
 ------------------
-*1x Ardumoto
-*1x Ardunio Leonardo
-*1x HDD head from a western digital HDD
-*1x 9 volt power supply
+*1x Ardumoto  
+*1x Ardunio Leonardo  
+*1x HDD head from a western digital HDD  
+*1x 9 volt power supply  
 
 Method
 ------------------
