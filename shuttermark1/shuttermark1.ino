@@ -40,10 +40,10 @@ void loop(){
   Serial.println(analogRead(CRTB));
   
   if(motorstate==1){
-    driveArdumoto(MOTOR_B,CW,125);
+    driveArdumoto(MOTOR_B,CW,255);
   }
   if(motorstate==0){
-    driveArdumoto(MOTOR_B,CCW,125);
+    driveArdumoto(MOTOR_B,CCW,255);
   }
   
   delay(1000);
